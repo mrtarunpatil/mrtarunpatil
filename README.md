@@ -129,18 +129,6 @@ STM32, ESP32, Raspberry Pi, sensor integration, and edge processing.
 ### 🌱 Sustainable Technologies
 Energy-efficient and environmentally responsible engineering solutions.
 
-# 📈 GitHub Focus
-
-* Embedded Systems Projects
-* IoT Applications
-* Environmental Monitoring Platforms
-* Automation Systems
-* Renewable Energy Projects
-* Power Electronics Applications
-* Research & Innovation Projects
-
----
-
 # 📬 Contact
 
 📧 **[tarunpatil018@gmail.com](mailto:tarunpatil018@gmail.com)**
