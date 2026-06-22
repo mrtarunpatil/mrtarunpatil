@@ -18,17 +18,11 @@ I enjoy transforming ideas into deployable systems—from circuit design and pow
 ### Areas I Work On
 
 ⚡ Power Electronics & Energy Systems
-
 🌐 Internet of Things (IoT)
-
 🔧 Embedded Systems Development
-
 📡 Wireless Sensor Networks
-
 🤖 Automation & Smart Systems
-
 🌱 Environmental Monitoring Technologies
-
 🏭 Industrial Electronics Applications
 
 ---
@@ -101,15 +95,10 @@ I enjoy transforming ideas into deployable systems—from circuit design and pow
 # 📈 Project Highlights
 
 ✅ Developed multiple real-world IoT deployments
-
 ✅ Built solar-powered environmental monitoring systems
-
 ✅ Experience with industrial-grade sensing technologies
-
 ✅ Designed embedded hardware and power management systems
-
 ✅ Worked on atmospheric and environmental intelligence platforms
-
 ✅ Developed automation and control systems
 
 ---
@@ -129,22 +118,16 @@ I enjoy transforming ideas into deployable systems—from circuit design and pow
 # 🚀 Current Focus
 
 ### 🔋 Power Electronics
-
 Battery management, solar energy systems, and power-efficient embedded devices.
 
 ### 🌐 IoT & Smart Systems
-
 Connected sensing platforms, environmental monitoring, and cloud-based analytics.
 
 ### 🔧 Embedded Hardware
-
 STM32, ESP32, Raspberry Pi, sensor integration, and edge processing.
 
 ### 🌱 Sustainable Technologies
-
 Energy-efficient and environmentally responsible engineering solutions.
-
----
 
 # 📈 GitHub Focus
 
