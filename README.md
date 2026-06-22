@@ -50,29 +50,14 @@ I enjoy transforming ideas into deployable systems—from circuit design and pow
 
 # 🔭 Featured Projects
 
-### 🌍 SkyPulse Centre for RF, Remote Sensing & Data Analytics
-
-Hyperlocal environmental intelligence system integrating atmospheric sensing, environmental analytics, and distributed monitoring infrastructure.
-
-### 🌿 EQCMS – Environmental Quality & Climate Monitoring System
-
-Industrial-grade environmental monitoring node continuously measuring PM1.0, PM2.5, PM10, CO, temperature, and humidity on campus.
-
-### 🐛 Smart Automated Feeding & Environmental Monitoring System for Sericulture
-
-Automated silkworm feeding and environmental control platform integrating image processing, IoT, and automation.
-
-### 🔬 Ultrasonic Spray Pyrolysis System
-
-Low-cost CNC-controlled thin-film deposition platform used for materials research and thin-film fabrication studies.
-
-### 🌦️ Smart Weather Monitoring Systems
-
-Real-time weather monitoring and environmental sensing systems powered by embedded electronics and cloud analytics.
-
-### 🔋 Solar-Powered IoT Infrastructure
-
-Energy-efficient environmental monitoring and automation systems powered by renewable energy.
+| Project                                                                          | Status            | Highlights                                                                                                |
+| -------------------------------------------------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------------------- |
+| 🌍 **SkyPulse Centre for RF, Remote Sensing & Data Analytics**                   | 🟢 Active         | ₹15.25L funded research centre, environmental intelligence, atmospheric sensing, satellite data analytics |
+| 🌿 **EQCMS – Environmental Quality & Climate Monitoring System**                 | 🟢 Deployed       | Campus-deployed since Aug 2025, Innovator Award 2025, real-time air quality monitoring                    |
+| 🐛 **Smart Automated Feeding & Environmental Monitoring System for Sericulture** | 🟡 Patent Pending | CNC-driven feeding, computer vision, Raspberry Pi, IoT automation                                         |
+| 🔬 **Low-Cost Ultrasonic Spray Pyrolysis System**                                | ✅ Complete        | Research-grade thin-film deposition platform utilized in TFOD Lab, BMSIT&M                                |
+| 🌦️ **Smart Weather Monitoring Systems**                                         | 🟢 Active         | Real-time weather monitoring, environmental sensing, cloud analytics                                      |
+| 🔋 **Solar-Powered IoT Infrastructure**                                          | 🟢 Active         | Renewable-energy-powered monitoring and automation systems                                                |
 
 ---
 
@@ -92,14 +77,28 @@ Energy-efficient environmental monitoring and automation systems powered by rene
 🥉 **3rd Place — Samsung Solve for Tomorrow (Anveshana) 2024–25**
 
 🏅 **Innovator Award 2025 — BMSIT&M**
-*Awarded for the Environmental Quality & Climate Monitoring System (EQCMS)*
+*Awarded for EQCMS – Environmental Quality & Climate Monitoring System*
 
 💰 **IEEE EPICS Research Grant — ₹7.25 Lakhs**
 *Co-Investigator, SkyPulse Centre for RF, Remote Sensing & Data Analytics*
 
 ---
 
-# 📊 Project Highlights
+# 📊 Quick Stats
+
+| Category                         | Achievement   |
+| -------------------------------- | ------------- |
+| 🚀 Major Projects                | 10+           |
+| 🏆 Awards & Recognitions         | 6+            |
+| 📄 Conference Publications       | 3             |
+| 🌏 International Finalist Events | 1             |
+| 💰 Research Funding Secured      | ₹15.25 Lakhs+ |
+| 🔧 Hardware Prototypes Developed | 10+           |
+| 🌱 Deployed Monitoring Systems   | Multiple      |
+
+---
+
+# 📈 Project Highlights
 
 ✅ Developed multiple real-world IoT deployments
 
@@ -121,7 +120,7 @@ Energy-efficient environmental monitoring and automation systems powered by rene
 * Renewable Energy Systems
 * Internet of Things (IoT)
 * Industrial Automation
-* Environmental Monitoring 
+* Environmental Monitoring
 * Smart Infrastructure
 * Electronics Product Development
 
@@ -170,4 +169,4 @@ Karnataka, India 🇮🇳
 
 ---
 
-> ### ⚡ “Engineering is not just about building systems — it's about creating solutions that make a measurable impact.”
+> ### ⚡ "Engineering is not just about building systems — it's about creating solutions that make a measurable impact."
