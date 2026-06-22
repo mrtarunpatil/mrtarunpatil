@@ -79,7 +79,7 @@ I enjoy transforming ideas into deployable systems—from circuit design and pow
 🏅 **Innovator Award 2025 — BMSIT&M**
 *Awarded for EQCMS – Environmental Quality & Climate Monitoring System*
 
-💰 **IEEE EPICS Research Grant — ₹7.25 Lakhs**
+💰 **IEEE EPICS Research Grant — ₹13.25 Lakhs**
 *Co-Investigator, SkyPulse Centre for RF, Remote Sensing & Data Analytics*
 
 ---
